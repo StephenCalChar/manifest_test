@@ -7,7 +7,7 @@
     "permissions": {
       "System": {
         "launchExternalProcess": true,
-        "readRegistryValue": false,
+        "readRegistryValue": true,
         "getAllExternalWindows": true
       }
     }
