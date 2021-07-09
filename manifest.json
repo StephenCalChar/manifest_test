@@ -1,0 +1,16 @@
+{
+  "startup_app": {
+    "name": "js app 15",
+    "uuid": "js app 15",
+    "url": "http://localhost:9966/index.html",
+    "autoShow": true,
+    "permissions": {
+      "System": {
+        "launchExternalProcess": true
+      }
+    }
+  },
+  "runtime": {
+    "version": "20.91.62.4"
+  }
+}
