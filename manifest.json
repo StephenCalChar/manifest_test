@@ -1,7 +1,7 @@
 {
   "startup_app": {
-    "name": "js app 15",
-    "uuid": "js app 15",
+    "name": "js app 16",
+    "uuid": "js app 16",
     "url": "http://localhost:9966/index.html",
     "autoShow": true,
     "permissions": {
