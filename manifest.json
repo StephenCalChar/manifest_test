@@ -6,9 +6,7 @@
     "autoShow": true,
     "permissions": {
       "System": {
-        "launchExternalProcess": true,
-        "readRegistryValue": true,
-        "getAllExternalWindows": true
+        "launchExternalProcess": true
       }
     }
   },
